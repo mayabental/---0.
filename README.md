@@ -71,7 +71,6 @@ And press submit:
 If we try entering none valid values we get an error message and we enter the right values:
 
 
-	
 
 
 
@@ -94,3 +93,4 @@ When updating the program will check if all the values are valid and if so they 
 
 
 
+https://sway.office.com/WGxjFcgL177WW67J?authoringPlay=true&publish
