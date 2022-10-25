@@ -12,7 +12,18 @@ The opening user page is:
  
 
 
+FullStack system for managing a Corona database for a large health fund:
+By:Maya Bental
 
+How to run this project?
+1.	Install XAMPP on your laptop then turn on Apache and MySQL.
+2.	Download or clone this repository and move the folder to C:/xampp/htdocs.
+3.	Now, write localhost/phpmyadmin into your browser, after that import the database.
+4.	Finally, access the web at localhost/display.php in your browser.
+The opening user page is:
+
+
+ 
 
 
 
@@ -20,18 +31,7 @@ The opening user page is:
 
 
 There is a option to add users to the data base by clicking on the add user button:
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -47,12 +47,17 @@ There is a option to add users to the data base by clicking on the add user butt
 
 add the values:
 
+ 
 
 
 
 
 
 
+
+
+
+ 
 
 
 
@@ -61,28 +66,28 @@ And press submit:
 
 
 
-
-
-
-
-
-
-
-If we try entering none valid values we get an error message and we enter the right values:
-
-
-
-
-
-
-
-
-
+If we try entering nonvalid values we get an error message and we enter the right values:
+For example:
 
 
  
+
+When submitiing:
+ and so on for each nonvalid input
+
+
+
+
+
+
+
+
 We can delete by pressing the delete button and update by pressing the update button:
+
+
+   
 When deleting the user will be removed from the data base.
+ 
 When updating the program will check if all the values are valid and if so they will be updated in the data base.
 
 
@@ -91,6 +96,5 @@ When updating the program will check if all the values are valid and if so they 
 
 
 
-
-
-https://sway.office.com/WGxjFcgL177WW67J?authoringPlay=true&publish
+[https://sway.office.com/WGxjFcgL177WW67J?authoringPlay=true&publish
+](https://sway.office.com/E7lOApr48PFWTKqk?authoringPlay=true&publish)
